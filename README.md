@@ -1,5 +1,5 @@
 # Instruction-Scheduling
-模擬processor使用Tomasulo algorithm的行為，使用到RF、RAT(儲存ROB的位子)、RS(分為加減以及乘除)、RS Buffer(代表要執行的instruction，儲存RS的位子)
+模擬processor使用Tomasulo algorithm的行為。
 ## 編譯環境
 使用visual studio 2019進行編譯
 ## 如何運行
